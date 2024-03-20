@@ -1,0 +1,63 @@
+header{
+    color:indigo;
+    text-align:center;
+    font-size: 20px;
+}
+
+nav{
+    width: 15%;
+    float:left;
+}
+
+nav a{
+    background-color: rgb(238, 154, 217);
+    border-radius: 10px 0 10px 0;
+    color:blanchedalmond;
+    margin:10px;
+    padding:10px;
+    text-decoration:none;
+    display:block;
+    color:black;
+}
+
+section{
+    float:right;
+    width:75%;
+    color:brown;
+    border-radius:5px;
+    box-shadow:  1px 0 4px rgb(233, 135, 217);
+    margin-bottom: 15px;
+    padding: 15px;
+    
+}
+
+#section-1{
+    background: linear-gradient(180deg, rgb(183, 180, 230) 0%, rgb(143, 143, 204) 35%, rgb(214, 103, 236) 100%);
+    color:black
+}
+
+#section-2{
+    background: linear-gradient(180deg, rgb(219, 150, 159) 0%, rgb(223, 72, 72) 35%, rgb(180, 33, 82) 100%);
+    color:black
+}
+
+#section-3{
+    background: linear-gradient(180deg, rgb(216, 215, 221) 0%, rgb(146, 146, 202) 35%, rgb(161, 89, 175) 100%);
+    color:black
+}
+
+aside{
+    float:right;
+    width: 30%;
+    padding: 5px;
+    margin: 5px;
+    font-style:italic;
+    color:rgb(1, 17, 5);
+    box-shadow: inset 5px 0 5px;
+}
+
+footer{
+    text-decoration:none;
+    float:left;
+}
+
